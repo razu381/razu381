@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/s9tx1vQJ/shohidul-islam-razu-frontend-developer.gif"  />
 </div>
 
 ###
