@@ -24,7 +24,8 @@
 
 ###
 
-<p align="left">I'm Razu <br><br>- 🔎 I’m looking for Front-end developer/ junior web developer roles<br>- 🎓 I'm currently learning Next.Js, DSA<br>- 📚 In my free time I travel and read tons of books<br>- 🖥️ I worked as a freelance WordPress designer for 4 years and am top rated freelancer at Upwork</p>
+<p align="left">I'm Razu <br><br>- 🔎 Passionate Frontend Developer expanding into Full Stack development with a focus on React, Node.js, and modern web technologies.
+<br>- 🎓 I'm currently learning Next.Js, DSA<br>- 📚 In my free time I travel and read books<br>- 🖥️ I worked as a freelance WordPress designer for 4 years and was top rated freelancer at Upwork</p>
 
 ###
 
